@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "humanizer-ru",
+  "owner": {
+    "name": "KarapuzPupkovich",
+    "url": "https://github.com/karapuzpupkovich"
+  },
+  "description": "Установка Humanizer-RU как плагина Claude Code.",
+  "plugins": [
+    {
+      "name": "humanizer-ru",
+      "source": "./",
+      "description": "Переписывает русский текст с признаками машинного письма так, чтобы он звучал как текст автора, и не меняет его смысла.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "humanize", "russian", "русский", "редактура"]
+    }
+  ]
+}

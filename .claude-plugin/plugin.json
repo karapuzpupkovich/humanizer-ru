@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "humanizer-ru",
+  "description": "Переписывает русский текст с признаками машинного письма так, чтобы он звучал как текст автора, и не меняет его смысла. Русская адаптация humanizer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "KarapuzPupkovich",
+    "url": "https://github.com/karapuzpupkovich"
+  },
+  "homepage": "https://github.com/karapuzpupkovich/humanizer-ru",
+  "repository": "https://github.com/karapuzpupkovich/humanizer-ru",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanize", "russian", "русский", "редактура"],
+  "skills": ["./"]
+}
